@@ -6,6 +6,8 @@
 
 A custom and easy Fragment Stack Manager.
 
+You can see a [Sample Project here](https://github.com/douglasspgyn/FragmentStackManagerSample) and learn more on the [Wiki](https://github.com/douglasspgyn/FragmentStackManager/wiki).
+
 ## Add to your project:
 You just need to add the Maven Jitpack repository on Project Gradle:
 ```xml
