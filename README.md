@@ -6,6 +6,10 @@
 
 A custom and easy Fragment Stack Manager.
 
+Don't worry about Fragment Stack anymore, focus on what you like and matters, create a better product. The Fragment Stack Manager will do all the hard work without change any of the main behaviors from Android.
+
+Imagine the Activity just like a holder for fragments, you need to set the title, options menu and still can handle the ActivityResult, all inside the Fragment. And you can push/pop a Fragmente whenever you have a Context (like inside an Adapter).
+
 You can see a [Sample Project here](https://github.com/douglasspgyn/FragmentStackManagerSample) and learn more on the [Wiki](https://github.com/douglasspgyn/FragmentStackManager/wiki).
 
 ## Add to your project:
